@@ -6,20 +6,21 @@ sidebar:
 ---
 #### 何夕2077 / justlovemaki
 
-> Ten years of coding, fingertips chilling, but my inner frustrations? Still bubbling under. Suddenly, the AI revolution's storm is here, and I'm ready to dive in and make some waves!
+> A decade coding, fingers cold, a story waiting to unfold.
+> Then AI's thunder, a mighty roar, a digital fight I'll leap into and explore! 🚀
 
-#### 💡 My Code Philosophy
+#### My Coding Philosophy
 
-> Technology: Always serving the people! 🤝
+> Technology: always serving the people! 🤝
 
-#### 🔥 My Masterpieces
+#### Portfolio Highlights ✨
 
 *   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   This is an AI image generation script, totally powered by Cloudflare Workers.
+    *   An AI image generation script, powered by Cloudflare Workers. 📸
 *   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   This content aggregation and generation platform is driven by Cloudflare Workers. It dishes out daily insights into the AI world, curating everything from industry news and popular open-source projects to cutting-edge academic papers and spicy tech influencer takes on social media. 🧠
-*   My [GitHub](https://github.com/justlovemaki) is packed with even more project details. Go check it out!
+    *   This is a Cloudflare Workers-driven platform for content aggregation and generation. It daily curates the latest in AI, serving up industry news, trending open-source projects, cutting-edge research papers, and insights from tech influencers! 💡
+*   Wanna dive deeper? 🧐 Check out my [GitHub](https://github.com/justlovemaki) for more project details!
 
-#### 🚀 What I'm Exploring Now
+#### What I'm Exploring Now 🚀
 
-> I'm absolutely hooked on LLM applications and website SEO, and guess what? I'm diving deep into learning and getting hands-on with them right now! 🤓
+My current focus? I'm super into LLM applications and website SEO, actively diving deep into learning and hands-on practice! 🧠✨
